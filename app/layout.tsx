@@ -20,18 +20,24 @@ export const metadata: Metadata = {
   title: "AltFounders - Custom AI Agents for Founders & Operators",
   description:
     "AltFounders helps businesses scale with custom AI agents for outreach, operations, and growth. Voice, Sales, and Chat agents deployed in under 30 days.",
+  icons: {
+    icon: "/icon.png",
+    apple: "/apple-icon.png",
+  },
   openGraph: {
     title: "AltFounders - Custom AI Agents for Founders & Operators",
     description:
       "Design, build, and deploy custom AI agents that automate outreach, operations, and customer communication.",
     type: "website",
     siteName: "AltFounders",
+    images: [{ url: "/icon.png", width: 512, height: 512 }],
   },
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "AltFounders - Custom AI Agents for Founders & Operators",
     description:
       "Scale your business with AI agents that work 24/7. Deployed in under 30 days.",
+    images: ["/icon.png"],
   },
 };
 
