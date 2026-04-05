@@ -24,8 +24,8 @@ export function Hero() {
             </div>
 
             <h1 className="text-5xl font-extrabold text-slate-800 sm:text-6xl lg:text-7xl leading-[1.05]">
-              We Build AI Systems That Get Your Business the{" "}
-              <span className="bg-gradient-to-r from-blue-500 to-indigo-400 bg-clip-text text-transparent">Leads, Sales, and Revenue It Deserves.</span>
+              We Build AI Systems That Do the Work, Cut the Costs, and{" "}
+              <span className="bg-gradient-to-r from-blue-500 to-indigo-400 bg-clip-text text-transparent">Grow Your Business.</span>
             </h1>
 
             <p className="mt-8 text-lg text-slate-400 max-w-2xl mx-auto leading-relaxed">
